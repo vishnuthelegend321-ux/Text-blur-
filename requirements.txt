@@ -1,4 +1,0 @@
-streamlit
-pytesseract
-opencv-python-headless
-Pillow
